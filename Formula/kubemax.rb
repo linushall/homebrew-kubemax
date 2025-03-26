@@ -2,7 +2,7 @@ class Kubemax < Formula
   desc "A synchronized input for multiple pods in one namespace or with some label"
   homepage "https://github.com/linushall/kubemax"
   url "https://github.com/linushall/kubemax/releases/download/1.0/kubemax.sh"
-  sha256 "0019dfc4b32d63c1392aa264aed2253c1e0c2fb09216f8e2cc269bbfb8bb49b5"
+  sha256 "17059a930b73145534fd36c42b75b2ebf0dc7f8511c75b496c04c0466d909edd"
   version "1.0"
 
   depends_on "tmux"
